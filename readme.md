@@ -3,7 +3,8 @@ Grand plan for Gridsome/Vue Wagtail FE
 
 1. Get wagtail bakery data into a GraphQL layer [GraphQL/wagtail instructions](https://wagtail.io/blog/getting-started-with-wagtail-and-graphql/)
 2. install gridsome app in the same repo probably at root level with its own tooling. [Gridsome docs](https://gridsome.org/)
-3. Profit
+3. Build a few components to consume the GraphQL data.
+4. Profit
 
 Wagtail demo project
 =======================
